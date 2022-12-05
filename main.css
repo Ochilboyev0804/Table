@@ -1,0 +1,48 @@
+.header{
+    border: 1px solid black;
+    margin: 100px;
+    border-collapse: collapse;
+    width: 1000px;
+    
+ 
+}
+th,td{
+    border: 1px solid black;
+    
+}
+.left{
+text-align: left;
+}
+.Right{
+text-align: right;
+}
+.Centre{
+    text-align: center;
+}
+.cols{
+    height: 40px;
+}
+.men{
+    width: 200px;
+}
+#head{
+    border: 1px solid black;
+    margin: 100px;
+    width: 1000px;
+}
+.man{
+    height: 100px;
+}
+.row{
+    width: 100px;
+    height: 620px;
+}
+#contener{
+    height: 100px;
+    background-color: rgb(68, 125, 7);
+}
+#cont{
+    height: 100px;
+    background-color: rgb(7, 3, 80);   
+}
+
